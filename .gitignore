@@ -1,0 +1,7 @@
+env/
+*_cache
+__pycache__/
+*coverage*
+*.egg-info/
+*.egg
+.tox/
